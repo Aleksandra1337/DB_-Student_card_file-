@@ -1,0 +1,16 @@
+D:\CR\Coursework_BD\Coursework_BD\bin\Debug\Coursework_BD.exe.config
+D:\CR\Coursework_BD\Coursework_BD\bin\Debug\Coursework_BD.exe
+D:\CR\Coursework_BD\Coursework_BD\bin\Debug\Coursework_BD.pdb
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.csprojAssemblyReference.cache
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form1.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Properties.Resources.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.csproj.GenerateResource.cache
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.csproj.CoreCompileInputs.cache
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.exe
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.pdb
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form2.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form3.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form4.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form5.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form6.resources
+D:\CR\Coursework_BD\Coursework_BD\obj\Debug\Coursework_BD.Form8.resources
